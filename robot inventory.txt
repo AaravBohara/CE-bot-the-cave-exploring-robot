@@ -1,0 +1,17 @@
+1.wheels-4
+2.motors-4
+3.battery holder-1
+4.acrylic sheet-2
+5.screwdriver(2 way)-1
+6.brass stan-doff (taparia 803)-6
+7.plastic wheel spacers-4
+8.acrylic wheel bracket-8
+9.M3 nuts-10
+10.M3 30 mm star screw-8
+11.M3 .8 mm star screw-14
+12.Instruction booklet-2
+13.IR sensor modules-2
+14.H-Bridge modules-2
+15.Rasberry pie 4b 4gb ram-1
+16.5v fan-1
+17.USB flashlight-1
