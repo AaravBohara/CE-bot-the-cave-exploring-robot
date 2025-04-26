@@ -15,3 +15,7 @@
 15.Rasberry pie 4b 4gb ram-1
 16.5v fan-1
 17.USB flashlight-1
+18.jumper wires M-M-10 F-F-10
+19.2200mAh battery-1
+20.battery connecter with button(soldered)-1
+21.breakout board with battery connecter(soldered)-1
