@@ -1,6 +1,6 @@
                            		CE1 (Cave explorer 1)
 
-1.robot body design-6hrs
+1.robot body design-6 hrs
 	.all wires to be soldered
 
 2.explores caves autonomously and navigate-12hrs
@@ -18,7 +18,7 @@
 
 5.collect samples (color and size)-8hrs
 	.robot arm to collect and store
-	.storage space (simple door (3d printed hinges) v/s complex safety focused mechanism
+	.storage space (simple door (3d printed hinges) v/s complex safety focused mechanism)
 	.determine if sample is heavy(IR sensor)
 	.determine and collect different samples
 	. 2 arms for heavier objects
