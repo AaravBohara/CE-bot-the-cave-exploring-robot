@@ -14,6 +14,8 @@ in2_r = 7
 enb_r = 21
 in3_r = 20
 in4_r = 16
+back_ir = 26
+front_ir = 19
 screen = curses.initscr()
 curses.noecho()
 curses.cbreak()
@@ -34,6 +36,8 @@ def setup():
     GPIO.setup(enb_r,GPIO.OUT)
     GPIO.setup(in3_r,GPIO.OUT)
     GPIO.setup(in4_r,GPIO.OUT)
+    GPIO.setup(front_ir,GPIO.IN)
+    GPIO.setup(back_ir,GPIO.IN)
     
     
 def forward():
@@ -175,10 +179,12 @@ if __name__=='__main__':
     pwm2.ChangeDutyCycle(100)
     pwm3.ChangeDutyCycle(100)
     pwm4.ChangeDutyCycle(100)
-    
     try:
         while True:
-            control()
+            if GPIO.input(back_ir) == 0 or GPIO.input(front_ir) == 0:
+                stop()
+            else:
+                control()
     except KeyboardInterrupt:
         curses.nocbreak()
         screen.keypad(0)
