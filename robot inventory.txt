@@ -1,11 +1,11 @@
-1.wheels-4
-2.motors-4
-3.battery holder-1
-4.acrylic sheet-2
-5.screwdriver(2 way)-1
-6.brass stan-doff (taparia 803)-6
-7.plastic wheel spacers-4
-8.acrylic wheel bracket-8
+1.Wheels-4
+2.Motors-4
+3.Battery holder-1
+4.Acrylic sheet-2
+5.Screwdriver(2 way)-1
+6.Brass stan-doff (taparia 803)-6
+7.Plastic wheel spacers-4
+8.Acrylic wheel bracket-8
 9.M3 nuts-10
 10.M3 30 mm star screw-8
 11.M3 .8 mm star screw-14
@@ -15,7 +15,8 @@
 15.Rasberry pie 4b 4gb ram-1
 16.5v fan-1
 17.USB flashlight-1
-18.jumper wires M-M-10 F-F-10
+18.Jumper wires M-M-10 F-F-10
 19.2200mAh battery-1
-20.battery connecter with button(soldered)-1
-21.breakout board with battery connecter(soldered)-1
+20.Battery connecter with button(soldered)-1
+21.Breakout board with battery connecter(soldered)-1
+22.B0272 Arducam 12MP Motorized Focus (with 2 FRC)-1
